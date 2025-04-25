@@ -1,6 +1,6 @@
--👋 Hi, I’m @taranveersingh1313
--👀 I’m interested in PHP, Laravel, Python, .NET, Vue.js
--🌱 I’m currently learning Python, .NET
+-👋 Hi, I’m @taranveersingh1313 (Taranveer Singh)
+-👀 I’m interested in PHP, Laravel, Node.js
+-🌱 I’m currently learning Node.js
 -💞️ I’m looking to collaborate on Laravel and PHP projects
 -📫 You can reach me at taranveersingh25@gmail.com
 -😄 Pronouns: he/him
